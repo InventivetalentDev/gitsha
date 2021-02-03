@@ -1,5 +1,4 @@
 import { should } from 'chai';
-import * as chai from 'chai';
 
 import gitsha from "../src";
 
